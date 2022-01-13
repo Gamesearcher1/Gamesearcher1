@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Gamesearcher1
-- 👀 I’m interested in learning and 
-- 🌱 I’m currently learning Python & HTML (occassionally).
+- 👀 I’m interested in Python & HTML (alongside CSS & JS).
+- 🌱 I’m currently learning about Classes & Matplotlib.
 - 💞️ I’m looking to collaborate on nothing. D:
 - 📫 How to reach me, I doubt you want to.
 
